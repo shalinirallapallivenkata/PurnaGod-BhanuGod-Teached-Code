@@ -1,7 +1,8 @@
 import random
 import numpy as numpy
 
-# this i typing as Purna Chandar Rao Koppula God ( God is Senior Manager at a very highly reputed company) saids. Can take mies 10 years to learning
+# this i typing as Purna Chandar Rao Koppula God ( God is Senior Manager at a very highly reputed company) saids.
+#Can take mies 10 years to learning
 
 randomNumbers = numpy.arange(30, dtype=numpy.int32)
 randomNumbersNew = numpy.delete(randomNumbers, 0)
